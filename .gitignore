@@ -1,0 +1,27 @@
+# 大型数据与中间结果
+*.pkl
+*.rds
+*.bw
+*.bed
+*.tsv
+*.gz
+matrix/
+
+# 分析输出
+result/
+results/
+deeptools/
+*.pdf
+*.xlsx
+*.png
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 系统
+.DS_Store
+Thumbs.db
